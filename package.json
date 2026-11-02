@@ -1,0 +1,19 @@
+{
+  "name": "semeia",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Estratégia de semeadura em tabuleiro vertical, com adversário local e modo de dupla.",
+  "scripts": {
+    "dev": "vite --host 127.0.0.1 --port 4183",
+    "preview": "vite preview --host 127.0.0.1 --port 4183",
+    "test": "node --test tests/*.test.js",
+    "build": "node scripts/licenses.mjs && vite build"
+  },
+  "dependencies": {
+    "mithril": "2.3.8"
+  },
+  "devDependencies": {
+    "vite": "8.3.5"
+  }
+}
