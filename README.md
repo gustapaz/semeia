@@ -4,6 +4,8 @@
 
 [Jogar gratuitamente](https://gustapaz.github.io/semeia/)
 
+![Tabuleiro vertical do Semeia publicado](docs/public-gameplay.png)
+
 Um jogo de estratégia da família mancala, usando uma variante do tipo Kalah. Tabuleiro vertical de madeira, distribuição animada, capturas e turnos extras. Duas dificuldades de adversário calculado no próprio navegador e modo para duas pessoas no mesmo dispositivo.
 
 ## Regras desta variante

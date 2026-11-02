@@ -13,7 +13,15 @@
 
 Mithril.js/JavaScript/Vite, sem backend, WebGL, API remota ou ativos/fontes externos. Som e arte procedurais. `npm audit` sem achados. Build gera aviso de licença e exporta só `dist/`, excluindo fontes, docs, testes, `.git` e configuração local. Não há credenciais ou dados pessoais de demonstração.
 
-GitHub Pages de repositório público disponível no plano gratuito, conforme https://docs.github.com/en/pages/getting-started-with-github-pages/what-is-github-pages. Não foi cadastrado cartão, ativado faturamento ou contratado trial/serviço de consumo. Verificações remotas de publicação, autoria, segredos e partida pública são registradas no acabamento antes da entrega.
+GitHub Pages de repositório público disponível no plano gratuito, conforme https://docs.github.com/en/pages/getting-started-with-github-pages/what-is-github-pages. Não foi cadastrado cartão, ativado faturamento ou contratado trial/serviço de consumo.
+
+## Publicação verificada em 02/11/2026
+
+- Implementação `000e5c0d509e783eff9defbc53c6417fed45236b`; workflow 41464855948 concluiu testes, auditoria, build e deploy com sucesso.
+- Casual completo na URL pública por oito escolhas reais, com Menos movimento: 41–7, 13 jogadas. Vitória e histórico único confirmados; reload preservou a preferência e o histórico, reiniciando a tentativa como documentado. Evidências `public-gameplay.png` e `public-victory.png`.
+- Cinco arquivos do export público conferidos byte a byte com o build local: HTML, favicon, licença, JavaScript e CSS.
+- Gitleaks sem achados no conteúdo preparado, histórico, export e clone remoto. Secret scanning, push protection e alertas de dependências ativados no repositório.
+- API do GitHub confirmou somente `gustapaz` como contribuidor; autor e committer usam `96732649+gustapaz@users.noreply.github.com`. Nenhum coautor adicional.
 
 ## Limites
 
